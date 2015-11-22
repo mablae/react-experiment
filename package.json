@@ -1,0 +1,22 @@
+{
+  "name": "react-experiment",
+  "version": "1.0.0",
+  "description": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mablae/react-experiment.git"
+  },
+  "author": "mablae",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mablae/react-experiment/issues"
+  },
+  "homepage": "https://github.com/mablae/react-experiment#readme",
+  "devDependencies": {
+    "gulp-react": "^3.1.0"
+  }
+}
